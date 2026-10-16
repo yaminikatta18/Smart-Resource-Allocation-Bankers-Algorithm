@@ -1,0 +1,14 @@
+# Compiled executable
+bankers
+
+# Object files
+*.o
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
